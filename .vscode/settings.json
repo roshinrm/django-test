@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "python.pythonPath": "C:\\Users\\ROSHIN\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}
